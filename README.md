@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/jabenfield/AZ-pipeline-testing/_apis/build/status/jabenny.pipelines-java?branchName=master)](https://dev.azure.com/jabenfield/AZ-pipeline-testing/_build/latest?definitionId=9&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
